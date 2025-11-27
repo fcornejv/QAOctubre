@@ -144,7 +144,7 @@ Este tablero documenta los defectos hallados.
 
 
 **🔗 Enlace al Tablero Trello (Acceso Público Requerido):**
-[Tablero de Defectos - Trello]**(https://trello.com/b/bKNzHIV2/qa-automation-exam)**
+[Tablero de Defectos - Trello]**https://trello.com/invite/b/69229bcc23627e2b59f2260e/ATTI8262bfa46c7d59718b34f0455d8ff454BD01C11A/qa-automation-exam**
 
 
 ---
