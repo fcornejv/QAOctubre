@@ -71,7 +71,7 @@ Sigue los siguientes pasos para descargar y ejecutar los tests automatizados End
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [ENLACE A TU REPOSITORIO DE GITHUB]
+    git clone https://github.com/fcornejv/QAOctubre.git
     ```
 2.  **Acceder al directorio del proyecto:**
     ```bash
