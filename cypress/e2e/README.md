@@ -5,7 +5,8 @@
 
 
 * Frank Pedro Cornejo Valencia.
-* Sandy Alvarez
+* Sandra Alvarez
+* Nicolas Montenegro
 * jonathan_avila10
 * Angelo
 
