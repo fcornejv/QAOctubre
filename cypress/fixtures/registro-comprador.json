@@ -1,0 +1,20 @@
+{
+  "nombre": "Guido",
+  "apellido": "Kaczka",
+  "telefono": "1192319211",
+  "dni": "27931921",
+  "provincia": "Buenos Aires",
+  "localidad": "Castelar",
+  "fechaNacimiento": {
+    "dia": "02",
+    "mes": "02",
+    "anio": "1978"
+  },
+  "email": "guido_kaczka@test.com",
+  "contra": "Guido1234$",
+
+
+  "emailError": "emailsinarroba",
+  "dniError": "123",
+  "anioError": "2045"
+}

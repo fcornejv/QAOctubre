@@ -1,0 +1,14 @@
+{
+  "usuario_admin": "admin@admin.com",
+  "contra_admin": "admin",
+
+  "usuario_comprador": "guido_kaczka@test.com",
+  "contra_comprador": "Guido1234$",
+
+  "usuario_organizador": "rodri@rmeventos.com",
+  "contra_organizador": "Rodri123#",
+
+  "usuario_incorrecto": "rodrim123_xacademy@gmail.com",
+  "contra_incorrecto": "rodrim2345678"
+  
+}

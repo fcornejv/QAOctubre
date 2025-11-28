@@ -1,0 +1,15 @@
+{
+    "razon_social": "Eventos El Fieston S.R.L.",
+    "cuit": "30999999990",
+    "provincia": "Córdoba",
+    "localidad": "Córdoba",
+    "direccion": "Av. Descontrol 4040 (frente al kiosco de Carlitos)",
+    "telefono": "1112345678",
+    "email": "entradas@elfiestontickets.ar",
+    "contra": "Fiesta123#",
+    "repetirContra": "Fiesta123#",
+
+    "emailError": "asdtest",
+    "telefonoError": "123",
+    "contraError": "nocoincide"
+}

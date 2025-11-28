@@ -1,20 +1,29 @@
-# Node modules
+# Ticketazo - Proyecto de QA Automation
+
+# No subir dependencias
 node_modules/
 
-# Environment files
-.env
-
-# macOS
-.DS_Store
-
-# Cypress downloads
+# Archivos generados por Cypress (videos, capturas y descargas)
+.cypress/
+cypress/videos/
+cypress/screenshots/
 cypress/downloads/
 
-# Log files
-.log
+# Archivos de logs
+*.log
 
-# Optional npm debug
-npm-debug.log*
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# Coverage
-coverage/
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.swp
+*.swo
+*.tmp

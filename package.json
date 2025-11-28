@@ -1,5 +1,24 @@
 {
+  "name": "qaoctubre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcornejv/QAOctubre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcornejv/QAOctubre/issues"
+  },
+  "homepage": "https://github.com/fcornejv/QAOctubre#readme",
   "devDependencies": {
-    "cypress": "^14.5.4"
+    "cypress": "^14.5.2",
+    "cypress-file-upload": "^5.0.8"
   }
 }

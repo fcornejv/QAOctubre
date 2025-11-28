@@ -1,19 +1,21 @@
-// ***********************************************************
-// This example support/e2e.js is processed and
-// loaded automatically before your test files.
-//
-// This is a great place to put global configuration and
-// behavior that modifies Cypress.
-//
-// You can change the location of this file or turn off
-// automatically serving support files with the
-// 'supportFile' configuration option.
-//
-// You can read more here:
-// https://on.cypress.io/configuration
-// ***********************************************************
+// Importamos dependencias
+import 'cypress-file-upload';
 
-// Import commands.js using ES2015 syntax:
-import './commands'
-import './comandosClase6'
-import './folderQa/users'
+// Importamos commands.js
+import './commands';
+
+// Ignoramos errores del frontend relacionados a 'releasePointerCapture'
+Cypress.on('uncaught:exception', (err) => {
+  if (err.message.includes('releasePointerCapture')) {
+    return false;
+  }
+});
+
+// Ignoramos el error "Loading chunk failed" que ocurre en Firefox, en otro navegadores funciona correctamente.
+// Este error no afecta la ejecucion real de los tests, por eso evitamos que falle.
+Cypress.on('uncaught:exception', (err) => {
+  if (err.message.includes('Loading chunk')) {
+    return false; 
+  }
+  return true; 
+});
