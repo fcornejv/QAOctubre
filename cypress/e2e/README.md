@@ -12,7 +12,8 @@
 
 | Nombre | Actividades |
 | :--- | :--- |
-| Frank Pedro Cornejo Valencia. | Creacion de proyecto Automatización, Ingreso de casos a `Plan de Pruebas`  |
+| Frank Pedro Cornejo Valencia. | Creacion de proyecto Automatización, Creacion e Ingreso de casos a `Plan de Pruebas`  |
+| Nicolas Montenegro | Creacion de proyecto Automatización, Creacion e Ingreso de casos a `Plan de Pruebas`  |
 | Sandy Alvarez |Creacion e Ingreso de casos a `Plan de Pruebas`  |
 | jonathan_avila10 | `Creacion de Tablero Vacio de Trello`  |
 | Angelo | `Creacion de repositorio Vacio de GIT `  |
