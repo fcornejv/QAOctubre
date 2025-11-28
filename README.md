@@ -5,14 +5,16 @@
 
 
 * Frank Pedro Cornejo Valencia.
-* Sandy Alvarez
+* Sandra Alvarez
+* Nicolas Montenegro
 * jonathan_avila10
 * Angelo
 
 
 | Nombre | Actividades |
 | :--- | :--- |
-| Frank Pedro Cornejo Valencia. | Creacion de proyecto Automatización, Ingreso de casos a `Plan de Pruebas`  |
+| Frank Pedro Cornejo Valencia. | Creacion de proyecto Automatización, Creacion e Ingreso de casos a `Plan de Pruebas`  |
+| Nicolas Montenegro | Creacion de proyecto Automatización, Creacion e Ingreso de casos a `Plan de Pruebas`  |
 | Sandy Alvarez |Creacion e Ingreso de casos a `Plan de Pruebas`  |
 | jonathan_avila10 | `Creacion de Tablero Vacio de Trello`  |
 | Angelo | `Creacion de repositorio Vacio de GIT `  |
@@ -144,7 +146,7 @@ Este tablero documenta los defectos hallados.
 
 
 **🔗 Enlace al Tablero Trello (Acceso Público Requerido):**
-[Tablero de Defectos - Trello]**(https://trello.com/b/bKNzHIV2/qa-automation-exam)**
+[Tablero de Defectos - Trello]**https://trello.com/invite/b/69229bcc23627e2b59f2260e/ATTI8262bfa46c7d59718b34f0455d8ff454BD01C11A/qa-automation-exam**
 
 
 ---
