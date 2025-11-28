@@ -15,7 +15,7 @@
 | :--- | :--- |
 | Frank Pedro Cornejo Valencia. | Creacion de proyecto Automatización, Creacion e Ingreso de casos a `Plan de Pruebas`  |
 | Nicolas Montenegro | Creacion de proyecto Automatización, Creacion e Ingreso de casos a `Plan de Pruebas`  |
-| Sandy Alvarez |Creacion e Ingreso de casos a `Plan de Pruebas`  |
+| Sandra Alvarez |Creacion e Ingreso de casos a `Plan de Pruebas`  |
 | jonathan_avila10 | `Creacion de Tablero Vacio de Trello`  |
 | Angelo | `Creacion de repositorio Vacio de GIT `  |
 
@@ -26,7 +26,7 @@
 
 
 ## 1. Objetivo del Proyecto
-El objetivo principal de este proyecto es poner en práctica la elaboración de planes de prueba y la automatización de casos funcionales utilizando **Cypress**, aplicando buenas prácticas de redaccion decasos de prueba, automatización y reporte de defectos.
+El objetivo principal de este proyecto es poner en práctica la elaboración de planes de prueba y la automatización de casos funcionales utilizando **Cypress**, aplicando buenas prácticas de redaccion de casos de prueba, automatización y reporte de defectos.
 
 
 ---
